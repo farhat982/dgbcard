@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dgbcard/static/css/main.c22e3a48.css",
+    "main.js": "/dgbcard/static/js/main.7450bdbe.js",
+    "static/media/dgbimage.jpeg": "/dgbcard/static/media/dgbimage.07f9521eae27f70f5063.jpeg",
+    "index.html": "/dgbcard/index.html",
+    "main.c22e3a48.css.map": "/dgbcard/static/css/main.c22e3a48.css.map",
+    "main.7450bdbe.js.map": "/dgbcard/static/js/main.7450bdbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22e3a48.css",
+    "static/js/main.7450bdbe.js"
+  ]
+}
